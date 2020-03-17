@@ -1,8 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicação em ReactJS para uso de redux e conceitos iniciais sobre actions e reducers
 
-## Available Scripts
+## Tecnologias
 
-In the project directory, you can run:
+- ReactJS
+- Redux
+- React Redux
+- Reducers
+- Reactotron
+
+## Scripts
 
 ### `yarn start`
 
